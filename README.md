@@ -1,2 +1,2 @@
-# CSE-220 (System Fundamentals I)
-Pente Game in MIPS Assembly Language
+# CSE-220 (Systems Fundamentals I)
+Pente Board Game in MIPS Assembly Language
