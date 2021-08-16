@@ -1,8 +1,3 @@
-# CSE 220 Programming Project #4
-# Name: Dolly Trivedi
-# Net ID: dtrivedi
-# SBU ID: 111427538
-
 #################### DO NOT CREATE A .data SECTION ####################
 #################### DO NOT CREATE A .data SECTION ####################
 #################### DO NOT CREATE A .data SECTION ####################
